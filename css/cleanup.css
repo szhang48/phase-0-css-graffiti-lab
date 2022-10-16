@@ -1,1 +1,21 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+#wall .tag-2 {
+    display: none;
+}
+.tag-1 {
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: block;
+  }
+  #wall .tag-4 {
+    display: block;
+  }
+#wall .tag-5 {
+    display: inline;
+}
+#wall .tag-3 {
+    display: flex;
+}
